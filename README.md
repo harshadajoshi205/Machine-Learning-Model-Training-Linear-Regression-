@@ -1,2 +1,2 @@
 # Machine-Learning-Model-Training-Linear-Regression-
-Developed a linear regression model training on iris flower dataset.
+Built a machine learning model for sentiment analysis using Linear Regression Algorithm. Implemented EDA, feature selection, assumptions, model training and model evaluation techniques.
